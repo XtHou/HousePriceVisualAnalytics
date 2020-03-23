@@ -1,0 +1,34 @@
+﻿Year,Site,Type,No_of_Sales,Median_Price,Mean_Price
+2006,Victoria,House,23024,220000,242556
+2007,Victoria,House,26360,229000,256662
+2008,Victoria,House,21445,230000,257400
+2009,Victoria,House,24819,241000,266408
+2010,Victoria,House,22656,270000,303955
+2011,Victoria,House,20757,280000,311669
+2012,Victoria,House,20370,280000,309049
+2013,Victoria,House,22729,290000,319124
+2014,Victoria,House,23130,300000,332175
+2015,Victoria,House,24631,310000,344267
+2016,Victoria,House,25168,320000,356665
+2006,Victoria,Units/Apartment,4185,198000,234782
+2007,Victoria,Units/Apartment,4955,210000,246256
+2008,Victoria,Units/Apartment,4091,210000,243400
+2009,Victoria,Units/Apartment,5361,220000,247166
+2010,Victoria,Units/Apartment,4755,236500,268904
+2011,Victoria,Units/Apartment,4231,242500,281567
+2012,Victoria,Units/Apartment,4235,240000,263803
+2013,Victoria,Units/Apartment,4363,240000,270125
+2014,Victoria,Units/Apartment,4382,247500,278692
+2015,Victoria,Units/Apartment,4395,250000,284062
+2016,Victoria,Units/Apartment,4180,260000,295028
+2006,Victoria,Vacant House Block,8031,90000,103114
+2007,Victoria,Vacant House Block,8632,97000,111808
+2008,Victoria,Vacant House Block,6892,100000,110703
+2009,Victoria,Vacant House Block,10486,105000,115084
+2010,Victoria,Vacant House Block,10659,122500,133655
+2011,Victoria,Vacant House Block,8771,132000,142520
+2012,Victoria,Vacant House Block,7514,130000,140519
+2013,Victoria,Vacant House Block,7699,136000,146464
+2014,Victoria,Vacant House Block,8414,138000,147775
+2015,Victoria,Vacant House Block,8253,142500,155424
+2016,Victoria,Vacant House Block,7241,145000,161482
