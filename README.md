@@ -47,7 +47,7 @@ x: (character) Path to a local file or a URL. **(without 'file=')**
 
 1. json对象
 
-2。 json数组
+2. json数组
 
 3. 纯值
 
