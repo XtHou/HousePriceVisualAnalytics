@@ -1,4 +1,5 @@
 # server.R
+# setwd("/srv/shiny-server/sample-apps/myRProject1")
 library(shiny)
 library(ggplot2)
 library(plotly)
@@ -10,6 +11,8 @@ library(RColorBrewer)
 
 source("./plotbox_ggplot.R")
 source("./minivic.R")
+
+pdf(NULL)
 
 # read data
 prices = read.csv('full_population.csv')
