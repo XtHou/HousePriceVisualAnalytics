@@ -1,6 +1,5 @@
-# 5147assignment3
 
-## first install 
+# first install 
 
 *Mac*
 
