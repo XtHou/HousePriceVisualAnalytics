@@ -36,20 +36,3 @@ x: (character) Path to a local file or a URL. **(without 'file=')**
 
 
 
-## json structure
-
-**对象:{属性:数组["属性:"值"]}**
-
-[key]键的结构是不变的：稳定性
-
-[value]值的结构是多变的：灵活性 包括：
-
-1. json对象
-
-2. json数组
-
-3. 纯值
-
-json对象是一对一对加进去的
-
-json数组是一个一个加进去的
